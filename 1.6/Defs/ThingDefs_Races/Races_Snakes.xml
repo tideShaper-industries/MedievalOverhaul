@@ -257,7 +257,7 @@
 			<body>Snake</body>
 			<leatherDef>Leather_Rhinoceros</leatherDef><!-- Rhino is turned into heavy scale leather -->
 			<predator>true</predator>
-			<maxPreyBodySize>0.80</maxPreyBodySize>
+			<maxPreyBodySize>3</maxPreyBodySize>
 			<baseBodySize>3.55</baseBodySize>
 			<baseHungerRate>0.5</baseHungerRate>
 			<baseHealthScale>6.5</baseHealthScale>
